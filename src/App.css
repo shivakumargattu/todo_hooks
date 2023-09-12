@@ -1,0 +1,17 @@
+.bg-continer{
+
+  width: 80vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.bg-warning{
+  height: 50px;
+  width: 630px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  font-size: large;
+}
